@@ -6,7 +6,7 @@
 
 Welcome to the **Go Cloud Roadmap**, an interactive, step-by-step guide designed to help developers master Go (Golang) for Cloud and Infrastructure engineering. This web application provides a structured learning path, progress tracking, and an integrated AI tutor to make learning more effective and engaging.
 
-**Live Demo:** [Experience the interactive roadmap here!](https://goroadmap.dev/)
+**Live Demo:** [Experience the interactive roadmap here!](https://gocloudroadmap.netlify.app/)
 
 ---
 

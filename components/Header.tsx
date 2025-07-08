@@ -17,7 +17,7 @@ const GoGopherMascot: React.FC = () => (
     className="w-24 h-24 md:w-32 md:h-32 flex-shrink-0 cursor-pointer"
   >
     <img
-      src="/mascot.webp"
+      src="/mascot.png"
       alt="Go Gopher Mascot"
       className="w-full h-full object-cover z-10 rounded-full
       shadow-lg shadow-cyan-900/20 hover:shadow-cyan-900/30 transition-shadow duration-300"
